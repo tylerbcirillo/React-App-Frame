@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "my steam",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "other stream",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "This description was changed. ",
+      "id": 4
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Patch request",
+      "id": 5
+    }
+  ]
+}
